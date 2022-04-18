@@ -1,0 +1,2 @@
+- Visualize the reversal and just create ListNodes and assign the number of variables according to the problem. Here we use: curr, prev and next
+- Iterative using while loop
